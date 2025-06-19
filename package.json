@@ -1,0 +1,14 @@
+{
+  "name": "nodetask",
+  "version": "1.0.0",
+  "description": "This project contains a FastAPI server implemented in Python. It provides two routes for managing a task list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
